@@ -1,17 +1,21 @@
-1. git初期設定
-	A. gitのインストール
-		https://gitforwindows.org/
-	B. 初期設定
-		git bashを開いて、
-		a. ユーザー名の登録
+1. git初期設定__
+	- gitのインストール__
+		https://gitforwindows.org/ __
+	- 初期設定__
+		git bashを開いて、__
+		- ユーザー名の登録__
+
 		'''
 		git config --global user.name USER
 		'''
-		b. メールアドレスの登録
+
+		- メールアドレスの登録__
+
 		'''
 		git config --global user.email EMAIL
 		'''
-		c. ユーザー名とメールアドレスのチェック
+
+		- ユーザー名とメールアドレスのチェック
 		'''
 		git config --list
 		'''
