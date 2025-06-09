@@ -40,7 +40,8 @@
 		'''
 	E. ローカルリポジトリにコミットする
 		a. サンプルでsample下にindex.htmlを作成
-		''' index.html
+		'''
+  		index.html
 		<!DOCTYPE html>
 		<html>
 		<head>
