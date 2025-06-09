@@ -5,7 +5,7 @@
 		git bashを開いて、__
 		- ユーザー名の登録__
 
-		'''
+		'''git:title
 		git config --global user.name USER
 		'''
 
